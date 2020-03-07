@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Complete the sherlockAndAnagrams function below.
+// Complete the sherlockAndAnagrams function below
 int sherlockAndAnagrams(string s) {
 
 
