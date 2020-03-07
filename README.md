@@ -1,3 +1,2 @@
 # src
-editing new branches
-sd
+Codes for unsolvable problems in interviews and cpc examinations
